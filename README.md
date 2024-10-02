@@ -1,6 +1,6 @@
 # EcoTrack
 
-### EcoTrack:	environmental	monitoring	and	reporting platform
+### EcoTrack:	Environmental	Monitoring and Reporting Platform
 
 #### Main Features:
 
